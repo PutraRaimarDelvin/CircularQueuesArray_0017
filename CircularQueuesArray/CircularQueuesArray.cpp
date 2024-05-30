@@ -35,5 +35,3 @@ public:
         }
         queue_array[REAR] = num;
     }
-
-    
